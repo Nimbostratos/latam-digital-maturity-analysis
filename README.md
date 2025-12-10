@@ -1,1 +1,1 @@
-# latam-digital-maturity-analyisi
+# latam-digital-maturity-analysis
