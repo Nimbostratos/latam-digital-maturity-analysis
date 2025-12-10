@@ -45,6 +45,6 @@ Designed an interactive dashboard using the **"F-Pattern" layout** for executive
 
 ---
 
-## 💻 SQL Logic Snippet
+## 💻 SQL Logic 
 *Full code available in the `/sql` folder.*
 
